@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github-header-image](https://github.com/AsmiVats/AsmiVats/assets/128238183/d58b977a-0b4c-4cb9-818e-a9eb6b653b7e)
+![github-header-image (1)](https://github.com/AsmiVats/AsmiVats/assets/128238183/3970e982-3053-4edb-b866-a9d1eb76b447)
 
 <h1 align="center">Hi 👋, I'm Asmi Vats</h1>
 <h3 align="center">A passionate Web Developer</h3>
