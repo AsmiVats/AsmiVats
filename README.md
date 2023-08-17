@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Node Js, React**
 
-- 👨‍💻 All of my projects are available at <a href="https://asmivats.github.io/Portfolio/">Portfolio</a>
+- 👨‍💻 <a href="https://asmivats.github.io/Portfolio/" style="font-weight: bold; color: purple;">My Portfolio</a>
 
 - 💬 Ask me about **Backend**
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/asmivats/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
