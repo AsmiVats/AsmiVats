@@ -17,18 +17,13 @@ Here are some ideas to get you started:
 ![github-header-image (7)](https://github.com/AsmiVats/AsmiVats/assets/128238183/4384326f-d384-4859-a37f-4a12f12b5c9f)
 
 
-<h1 align="center">Hi 👋, I'm Asmi Vats</h1>
-<h3 align="center">A passionate Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80">
+👋 Hello! I'm Asmi, an undergraduate student currently attending VIT,Bhopal.A passionate web developer who enjoy creating websites and is constantly learning and growing in this field, eager to explore new technologies.
 
+ 💻 Tech Stack:<ul><li>NodeJs</li><li> Express</li><li> React</li><li>JavaScript</li><li>HTML/CSS</li><li>Python</li></ul>
+ 
+ 👨‍💻 <a href="https://asmivats.github.io/Portfolio/" style="font-weight: bold; color: purple;">My Portfolio</a>
 
-- 🌱 I’m currently learning **Node Js, React**
-
-- 👨‍💻 <a href="https://asmivats.github.io/Portfolio/" style="font-weight: bold; color: purple;">My Portfolio</a>
-
-- 💬 Ask me about **Backend**
-
-- 📫 How to reach me **asmivats15@gmail.com**
+ 📫 How to reach me **asmivats15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
