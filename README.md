@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![github-header-image (7)](https://github.com/AsmiVats/AsmiVats/assets/128238183/4384326f-d384-4859-a37f-4a12f12b5c9f)
 -->
 
-![github-header-image (7)](https://github.com/AsmiVats/AsmiVats/assets/128238183/4384326f-d384-4859-a37f-4a12f12b5c9f)
+![github-header-image (10)](https://github.com/user-attachments/assets/ba0957a5-3149-4efd-b83c-529531e9a19f)
 
 
 👋 Hello! I'm Asmi, an undergraduate student currently attending VIT,Bhopal.A passionate web developer who enjoy creating websites and is constantly learning and growing in this field, eager to explore new technologies.
