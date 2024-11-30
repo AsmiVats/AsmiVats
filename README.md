@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 👋 Hello! I'm Asmi, an undergraduate student currently attending VIT,Bhopal.A passionate web developer who enjoy creating websites and is constantly learning and growing in this field, eager to explore new technologies.
 
- 💻 Tech Stack:<ul><li>HTML/CSS/Tailwind</li><li>JavaScript/TypeScript</li><li>NodeJs</li><li> Express</li><li> React Js</li><li>C++/Python</li></ul>
+ 💻 Tech Stack:<ul><li> React Js/Next Js</li><li>JavaScript/TypeScript</li><li>NodeJs/Express</li><li>Mongo DB</li><li>HTML/CSS/Tailwind</li><li>C++/Python</li></ul>
  
  👨‍💻 <a href="https://asmivats.github.io/Portfolio/" style="font-weight: bold; color: purple;">My Portfolio</a>
 
