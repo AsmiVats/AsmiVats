@@ -1,5 +1,5 @@
 
-<!--
+<!--https://asmivats.github.io/Portfolio/
 **AsmiVats/AsmiVats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
  💻 Tech Stack:<ul><li> React Js/Next Js</li><li>JavaScript/TypeScript</li><li>NodeJs/Express</li><li>Mongo DB</li><li>HTML/CSS/Tailwind</li><li>C++/Python</li></ul>
  
- 👨‍💻 <a href="https://asmivats.github.io/Portfolio/" style="font-weight: bold; color: purple;">My Portfolio</a>
+ 👨‍💻 <a href="https://asmivats.vercel.app/" style="font-weight: bold; color: purple;">My Portfolio</a>
 
  📫 How to reach me **asmivats15@gmail.com**
 
