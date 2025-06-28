@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![github-header-image (7)](https://github.com/AsmiVats/AsmiVats/assets/128238183/4384326f-d384-4859-a37f-4a12f12b5c9f)
 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ba0957a5-3149-4efd-b83c-529531e9a19f/4384326f-d384-4859-a37f-4a12f12b5c9f" alt="Header" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d307f7af-5675-4575-9dff-f4645d603242" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm Asmi!</h1>
