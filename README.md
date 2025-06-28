@@ -1,3 +1,5 @@
+<img src="![image](https://github.com/user-attachments/assets/c6d88035-9074-4b1b-9d22-442065870ef1)" alt="">
+
 
 <!--https://asmivats.github.io/Portfolio/
 **AsmiVats/AsmiVats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![github-header-image (10)](https://github.com/user-attachments/assets/ba0957a5-3149-4efd-b83c-529531e9a19f)
+
 ![github-header-image (7)](https://github.com/AsmiVats/AsmiVats/assets/128238183/4384326f-d384-4859-a37f-4a12f12b5c9f)
 -->
 
-![github-header-image (10)](https://github.com/user-attachments/assets/ba0957a5-3149-4efd-b83c-529531e9a19f)
+![download (1)](https://github.com/user-attachments/assets/d307f7af-5675-4575-9dff-f4645d603242)
+
 
 
 👋 Hello! I'm Asmi, an undergraduate student currently attending VIT,Bhopal.A passionate web developer who enjoy creating websites and is constantly learning and growing in this field, eager to explore new technologies.
