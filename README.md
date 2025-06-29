@@ -56,11 +56,11 @@ I'm a passionate web developer who loves creating beautiful, user-centric websit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" alt="C++" />
 </p>
 
-- **Frameworks & Libraries:** React, Next.js, Express
+- **Frameworks & Libraries:** React, Next.js, Node.js, Express
 - **Languages:** JavaScript, TypeScript, Python, C++
-- **Database:** MongoDB
+- **Database:** MongoDB, SQL
 - **Styling:** HTML, CSS, Tailwind CSS
-- **Tools:** Git & GitHub
+- **Tools:** Git & GitHub, Docker
 
 ---
 
